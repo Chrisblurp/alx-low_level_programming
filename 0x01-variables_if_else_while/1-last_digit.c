@@ -8,6 +8,7 @@
 */
 /* more headers goes there */
 /* betty style doc for function main goes there */
+/* Description: determines whether n is 0, n > 5 or n <  6 */
 int main(void)
 {
 int n;
