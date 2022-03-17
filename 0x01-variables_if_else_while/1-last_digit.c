@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main - generates random number n
- * Description: determines whether n is 0,n > 5 or n < 6
- * Return: Always 0 (Success)
+* Main - generates random number n
+* Description: determines whether n is 0,n > 5 or n < 6
+* Return: Always 0 (Success)
+*/
 /* more headers goes there */
 /* betty style doc for function main goes there */
 int main(void)
