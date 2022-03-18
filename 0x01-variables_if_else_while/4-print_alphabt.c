@@ -16,5 +16,6 @@ else if (alpha == 'q')
 continue;
 putchar (alpha);
 }
+putchar('\n');
 return (0);
 }
