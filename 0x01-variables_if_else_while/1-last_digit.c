@@ -24,5 +24,6 @@ else if (lastdigit == 0)
 printf("equals to 0\n, ");
 else
 printf("less than 6 and not 0\n, ");
+printf("\n");
 return (0);
 }
