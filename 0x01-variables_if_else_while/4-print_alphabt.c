@@ -1,0 +1,20 @@
+#include <stdio.h>
+/**
+* Main - Entry point
+*
+* Return: Always 0 (success/correct)
+*/
+int main(void)
+{
+
+char alpha;
+for (alpha = 'a'; alpha <= 'z'; alpha++)
+{
+if (alpha == 'e')
+continue;
+else if (alpha == 'q')
+continue;
+putchar (alpha);
+}
+return (0);
+}
