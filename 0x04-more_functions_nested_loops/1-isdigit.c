@@ -1,13 +1,13 @@
 #include "main.h"
 /**
 * _isdigit - evalue c is a digit
-* @c: checks for the value of c
-* Return: 0 Always.
+* @c: print int
+* Return: always 0.
 */
 int _isdigit(int c)
 {
 
-if (c >= '48' && c <= '57')
+if (c >= 48 && c <= 57)
 {
 return (1);
 }
