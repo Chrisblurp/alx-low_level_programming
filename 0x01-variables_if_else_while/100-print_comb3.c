@@ -7,10 +7,10 @@
 int main(void)
 {
 int num;
-for (num = 01; num <= 99; num++)
+for (num = 1; num <= 89; num++)
 {
-putchar(num);
-if (num == 99)
+putchar('%2d', num);
+if (num == 89)
 {
 break;
 }

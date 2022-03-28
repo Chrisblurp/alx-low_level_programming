@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* Main - Entry point 
-* Return: Always 0 (Success)
+* Main -  Entry point
+* Return: Always 0.
 */
 /* more headers goes there */
-/* betty style doc for function main goes there */
+/* positive_or_negative - entry  point */
 int main(void)
 {
 int n;
