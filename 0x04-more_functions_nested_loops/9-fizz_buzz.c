@@ -13,21 +13,21 @@ while (i <= p)
 {
 if (i % 3 == 0 && i % 5 == 0)
 {
-printf("FIZZBUZZ ");
+printf("FizzBuzz ");
 }
 else if (i & 3 == 0)
 {
-printf("FIZZ ");
+printf("Fizz ");
 }
 else if (i % 5 == 0)
 {
 if (i < p)
 {
-printf("BUZZ ");
+printf("Buzz ");
 }
 else
 {
-printf("BUZZ");
+printf("Buzz");
 }
 }
 else
