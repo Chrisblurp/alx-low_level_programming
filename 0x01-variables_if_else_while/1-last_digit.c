@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* Main - generates random number n
+* main - generates random number n
 *
 * Return: Always 0 (Success/correct)
 */

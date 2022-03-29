@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-  * Main - Entry point
-  * Return: Always 0 (Success/correct)
-  * Description: to print the posible combinaton of 2 digit numbers
+* main - Entry point
+* Return: Always 0 (Success/correct)
+* Description: to print the posible combinaton of 2 digit numbers
 */
 int main(void)
 {

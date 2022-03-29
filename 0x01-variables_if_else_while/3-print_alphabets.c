@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-  * Main - Entry point
-  *
-  * Return: Always 0 (Success/Correct)
- */
+ * main - Entry point
+ *
+ * Return: Always 0 (Success/Correct)
+*/
 int main(void)
 {
 char lower;

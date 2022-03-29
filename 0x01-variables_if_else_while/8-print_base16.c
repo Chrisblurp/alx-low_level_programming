@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-  * Main - Entry point
-  *
-  * Return: Always 0 (Success/correct)
-  */
+* main - Entry point
+*
+* Return: Always 0 (Success/correct)
+*/
 int main(void)
 {
 char base_16, base_alpha;

@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* 0-positive_or_negative.c - chech if result is positive or negative
-* Return: Always 0.
+* main - Entry point 
+* Return: Always 0 (Success)
 */
 /* more headers goes there */
-/* positive_or_negative - entry  point */
+/* betty style doc for function main goes there */
 int main(void)
 {
 int n;
@@ -19,6 +19,5 @@ else if (n < 0)
 printf("%d is negative", n);
 else
 printf("%d is zero", n);
-printf("\n");
 return (0);
 }
