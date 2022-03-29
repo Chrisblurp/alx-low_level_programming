@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* Main -  Entry point
+* 0-positive_or_negative.c - chech if result is positive or negative
 * Return: Always 0.
 */
 /* more headers goes there */
